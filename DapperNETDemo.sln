@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperNETDemo", "DapperNETDemo\DapperNETDemo.csproj", "{D369853A-C07B-4047-8C41-CAB0856CD8CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferenceDll", "ReferenceDll", "{589CEA8A-CDAE-4FED-9622-BCFBC1E9DEDC}"
+	ProjectSection(SolutionItems) = preProject
+		ReferenceDll\Dapper.dll = ReferenceDll\Dapper.dll
+		ReferenceDll\Dapper.xml = ReferenceDll\Dapper.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{543C937B-D507-4130-820A-45D8DFD6E026}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL脚本 for DapperDemo", "SQL脚本 for DapperDemo", "{F2CC3214-28DB-4165-A7BA-E62CE8193F12}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\SQL脚本 for DapperDemo\1-CREATE DapperNETDemo Table.sql = Documents\SQL脚本 for DapperDemo\1-CREATE DapperNETDemo Table.sql
+		Documents\SQL脚本 for DapperDemo\2-SP_DapperNETDemoSP1.sql = Documents\SQL脚本 for DapperDemo\2-SP_DapperNETDemoSP1.sql
+		Documents\SQL脚本 for DapperDemo\3-SP_DapperNETDemoSP2.sql = Documents\SQL脚本 for DapperDemo\3-SP_DapperNETDemoSP2.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D369853A-C07B-4047-8C41-CAB0856CD8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D369853A-C07B-4047-8C41-CAB0856CD8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D369853A-C07B-4047-8C41-CAB0856CD8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D369853A-C07B-4047-8C41-CAB0856CD8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F2CC3214-28DB-4165-A7BA-E62CE8193F12} = {543C937B-D507-4130-820A-45D8DFD6E026}
+	EndGlobalSection
+EndGlobal

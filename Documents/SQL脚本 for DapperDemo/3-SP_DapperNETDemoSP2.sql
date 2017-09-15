@@ -1,0 +1,23 @@
+USE [DapperDemoDB]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [dbo].[DapperNETDemoSP2]
+        @Name VARCHAR(10)
+AS
+
+BEGIN
+
+    SELECT @Name AS NameResult1
+	SELECT 2 AS NameResult2   
+    RETURN 2
+END
+
+GO
+
+
