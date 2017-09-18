@@ -18,6 +18,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL脚本 for DapperDemo", 
 		Documents\SQL脚本 for DapperDemo\1-CREATE DapperNETDemo Table.sql = Documents\SQL脚本 for DapperDemo\1-CREATE DapperNETDemo Table.sql
 		Documents\SQL脚本 for DapperDemo\2-SP_DapperNETDemoSP1.sql = Documents\SQL脚本 for DapperDemo\2-SP_DapperNETDemoSP1.sql
 		Documents\SQL脚本 for DapperDemo\3-SP_DapperNETDemoSP2.sql = Documents\SQL脚本 for DapperDemo\3-SP_DapperNETDemoSP2.sql
+		Documents\SQL脚本 for DapperDemo\Readme.txt = Documents\SQL脚本 for DapperDemo\Readme.txt
 	EndProjectSection
 EndProject
 Global
