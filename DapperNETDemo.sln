@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferenceDll", "ReferenceDl
 	ProjectSection(SolutionItems) = preProject
 		ReferenceDll\Dapper.dll = ReferenceDll\Dapper.dll
 		ReferenceDll\Dapper.xml = ReferenceDll\Dapper.xml
+		ReferenceDll\Readme.txt = ReferenceDll\Readme.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{543C937B-D507-4130-820A-45D8DFD6E026}"
