@@ -1,11 +1,11 @@
 # DapperDemo
 
-## 第6章的Demo下载和更多资料
-### 5.1 Demo下载
+## 第14章的Demo下载和更多资料
+### Demo下载
 1. Dapper.NETDemo下载地址：https://github.com/das2017/DapperDemo
 2. EmitMapperDemo和AutoMapperDemo下载地址：https://github.com/das2017/ObjectMapperDemo
 3. AutofacDemo下载地址：https://github.com/das2017/AutofacDemo
-### 5.2 更多资料
+### 更多资料
 1. Dapper.NET：https://github.com/StackExchange/Dapper
 2. EmitMapper：http://emitmapper.codeplex.com/
 3. AutoMapper：https://github.com/AutoMapper/AutoMapper
